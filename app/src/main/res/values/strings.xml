@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Distance</string>
+    <string name="acc_x">Acc X</string>
+    <string name="acc_y">Acc Y</string>
+    <string name="acc_z">Acc Z</string>
+    <string name="gyr_x">Gyr X</string>
+    <string name="gyr_y">Gyr Y</string>
+    <string name="gyr_z">Gyr Z</string>
+    <string name="a">Action!</string>
+    <string name="record">Record</string>
+    <string name="gesture">Gesture</string>
+    <string name="filename">Filename</string>
+    <string name="choose_file">Choose file</string>
+    <string name="values_count">Values count</string>
+</resources>
